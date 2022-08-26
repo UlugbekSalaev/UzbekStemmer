@@ -18,7 +18,8 @@ pypi.org url: https://pypi.org/project/UzbekStemmer/
 <code>pip install UzbekStemmer</code>
 
 Example:
-<code>from UzbekStemmer import UzbekStemmer as uzstem
-print(uzstem.UzStemmer('Bolalarimizdanmisizlar'))</code>
+
+<code>from UzbekStemmer import UzbekStemmer as uzstem </code>
+<code>print(uzstem.UzStemmer('Bolalarimizdanmisizlar'))</code>
 
 Result: <code>Bola</code>
