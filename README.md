@@ -19,7 +19,7 @@ pypi.org url: https://pypi.org/project/UzbekStemmer/
 
 Example:
 
-<code>from UzbekStemmer import UzbekStemmer as uzstem \n
+<code>from UzbekStemmer import UzbekStemmer as uzstem <br>
 print(uzstem.UzStemmer('Bolalarimizdanmisizlar'))</code>
 
 Result: <code>Bola</code>
