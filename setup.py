@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="UzbekStemmer",
     version="0.0.11",
-    author="Maksud Sharipov, Ulugbek Salaev, Allabergan Yuldashev, Jasur Sobirov",
+    author="Maksud Sharipov, Ulugbek Salaev",
     author_email="ulugbek0302@gmail.com",
     description="Uzbek Stemmer for Python",
     long_description=long_description,
